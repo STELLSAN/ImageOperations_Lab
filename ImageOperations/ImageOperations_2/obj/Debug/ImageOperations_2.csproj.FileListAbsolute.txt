@@ -1,0 +1,11 @@
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.csproj.AssemblyReference.cache
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.Form1.resources
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.Properties.Resources.resources
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.csproj.GenerateResource.cache
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.csproj.CoreCompileInputs.cache
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\bin\Debug\ImageOperations_2.exe.config
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\bin\Debug\ImageOperations_2.exe
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\bin\Debug\ImageOperations_2.pdb
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.exe
+C:\Users\Oxotn\source\repos\ImageOperations\ImageOperations_2\obj\Debug\ImageOperations_2.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageOperations", "ImageOperations\ImageOperations.csproj", "{2275F71A-DA7B-4AFF-A727-4F3D9E10F618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageOperations_2", "ImageOperations_2\ImageOperations_2.csproj", "{C314A115-85B2-46AD-AC4B-1E2AF0222DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2275F71A-DA7B-4AFF-A727-4F3D9E10F618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2275F71A-DA7B-4AFF-A727-4F3D9E10F618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2275F71A-DA7B-4AFF-A727-4F3D9E10F618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2275F71A-DA7B-4AFF-A727-4F3D9E10F618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C314A115-85B2-46AD-AC4B-1E2AF0222DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C314A115-85B2-46AD-AC4B-1E2AF0222DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C314A115-85B2-46AD-AC4B-1E2AF0222DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C314A115-85B2-46AD-AC4B-1E2AF0222DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A63685E-17F8-4C69-9D86-4C3E093859A8}
+	EndGlobalSection
+EndGlobal
