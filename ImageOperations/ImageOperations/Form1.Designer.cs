@@ -37,6 +37,7 @@
             this.открыть2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mSEToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.uIQToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.uIQСреднееToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.menuStrip1.SuspendLayout();
@@ -84,7 +85,8 @@
             this.открыть1ToolStripMenuItem,
             this.открыть2ToolStripMenuItem,
             this.mSEToolStripMenuItem,
-            this.uIQToolStripMenuItem});
+            this.uIQToolStripMenuItem,
+            this.uIQСреднееToolStripMenuItem});
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
             this.файлToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
             this.файлToolStripMenuItem.Text = "Файл";
@@ -116,6 +118,13 @@
             this.uIQToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.uIQToolStripMenuItem.Text = "UIQ";
             this.uIQToolStripMenuItem.Click += new System.EventHandler(this.uIQToolStripMenuItem_Click);
+            // 
+            // uIQСреднееToolStripMenuItem
+            // 
+            this.uIQСреднееToolStripMenuItem.Name = "uIQСреднееToolStripMenuItem";
+            this.uIQСреднееToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.uIQСреднееToolStripMenuItem.Text = "UIQ среднее";
+            this.uIQСреднееToolStripMenuItem.Click += new System.EventHandler(this.uIQСреднееToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -150,6 +159,7 @@
         private System.Windows.Forms.ToolStripMenuItem открыть2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mSEToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem uIQToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem uIQСреднееToolStripMenuItem;
     }
 }
 

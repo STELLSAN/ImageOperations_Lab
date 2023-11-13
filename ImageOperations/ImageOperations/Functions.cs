@@ -17,6 +17,7 @@ namespace ImageOperations
                 return max;
             return value;
         }
+
         public float imageCompareMSE(Bitmap sourceImage1, Bitmap sourceImage2)
         {
             int imageWidth = sourceImage1.Width;
@@ -76,7 +77,9 @@ namespace ImageOperations
             xG = xG / totalPixelCount;
             yG = yG / totalPixelCount;
             xyG = xyG / totalPixelCount;
-            res = ((2 * xSig * ySig) / ((xSig * xSig) + (ySig * ySig))) * ((2 * xyG) / ((xG * xG) + (yG * yG)));
+            float res1 = ((2 * xSig * ySig) / ((xSig * xSig) + (ySig * ySig)));
+            float res2 = ((2 * xyG * xyG) / (((xG * xG) + (yG * yG))));
+            res = res1 * res2;
             return res;
         }
 
